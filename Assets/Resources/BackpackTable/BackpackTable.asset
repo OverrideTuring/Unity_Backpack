@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5e75ddd9427914191d0bc126d6d5d0, type: 3}
+  m_Name: BackpackTable
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    type: 1
+    quality: 1
+    icon: Images/Items/Potions/Potion_Epic_White
+  - id: 2
+    type: 1
+    quality: 2
+    icon: Images/Items/Potions/Potion_Epic_Green
+  - id: 3
+    type: 1
+    quality: 3
+    icon: Images/Items/Potions/Potion_Epic_Blue
+  - id: 4
+    type: 1
+    quality: 4
+    icon: Images/Items/Potions/Potion_Epic_Purple
+  - id: 5
+    type: 1
+    quality: 5
+    icon: Images/Items/Potions/Potion_Epic_Orange
+  - id: 6
+    type: 2
+    quality: 1
+    icon: Images/Items/PetEggs/Egg_A
+  - id: 7
+    type: 2
+    quality: 2
+    icon: Images/Items/PetEggs/Egg_C
+  - id: 8
+    type: 2
+    quality: 3
+    icon: Images/Items/PetEggs/Egg_D
+  - id: 9
+    type: 2
+    quality: 4
+    icon: Images/Items/PetEggs/Egg_B
+  - id: 10
+    type: 2
+    quality: 5
+    icon: Images/Items/PetEggs/Egg_F
+  - id: 11
+    type: 3
+    quality: 1
+    icon: Images/Items/Coins/Coins_Tiny_Copper
+  - id: 12
+    type: 3
+    quality: 2
+    icon: Images/Items/Coins/Coins_Small_Copper
+  - id: 13
+    type: 3
+    quality: 3
+    icon: Images/Items/Coins/Coins_Medium_Copper
+  - id: 14
+    type: 3
+    quality: 4
+    icon: Images/Items/Coins/Coins_Large_Copper
+  - id: 15
+    type: 3
+    quality: 5
+    icon: Images/Items/Coins/Coins_Huge_Copper
+  - id: 16
+    type: 1
+    quality: 1
+    icon: Images/Items/Potions/Potion_Huge_White
+  - id: 17
+    type: 1
+    quality: 2
+    icon: Images/Items/Potions/Potion_Huge_Green
+  - id: 18
+    type: 1
+    quality: 3
+    icon: Images/Items/Potions/Potion_Huge_Blue
+  - id: 19
+    type: 1
+    quality: 4
+    icon: Images/Items/Potions/Potion_Huge_Purple
+  - id: 20
+    type: 1
+    quality: 5
+    icon: Images/Items/Potions/Potion_Huge_Orange
+  - id: 21
+    type: 2
+    quality: 1
+    icon: Images/Items/Runes/Rune_A
+  - id: 22
+    type: 2
+    quality: 2
+    icon: Images/Items/Runes/Rune_D
+  - id: 23
+    type: 2
+    quality: 3
+    icon: Images/Items/Runes/Rune_E
+  - id: 24
+    type: 2
+    quality: 4
+    icon: Images/Items/Runes/Rune_F
+  - id: 25
+    type: 2
+    quality: 5
+    icon: Images/Items/Runes/Rune_C
+  - id: 26
+    type: 3
+    quality: 1
+    icon: Images/Items/Scrolls/Scroll_Open_White
+  - id: 27
+    type: 3
+    quality: 2
+    icon: Images/Items/Scrolls/Scroll_Open_Green
+  - id: 28
+    type: 3
+    quality: 3
+    icon: Images/Items/Scrolls/Scroll_Open_Blue
+  - id: 29
+    type: 3
+    quality: 4
+    icon: Images/Items/Scrolls/Scroll_Open_Purple
+  - id: 30
+    type: 3
+    quality: 5
+    icon: Images/Items/Scrolls/Scroll_Open_Orange
